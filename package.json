@@ -1,0 +1,25 @@
+{
+  "name": "speedt-watch",
+  "version": "0.1.0",
+  "description": "speedt-watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "commander": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3203317/speedt-watch.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "huangxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3203317/speedt-watch/issues"
+  },
+  "homepage": "https://github.com/3203317/speedt-watch"
+}
