@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "speedt-watch",
   "main": "index.js",
+  "bin": {
+    "speedt": "index.js"
+  },
   "scripts": {
     "test": "test.js"
   },
